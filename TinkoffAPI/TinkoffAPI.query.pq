@@ -1,5 +1,5 @@
 ﻿// Use this file to write queries to test your data connector
 let
-    result = TinkoffAPI.Contents()
+    result = TinkoffAPI.NavTableNested()
 in
     result
